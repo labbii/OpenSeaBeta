@@ -44,7 +44,7 @@ dfx canister call opend listItem '(principal "si2b5-pyaaa-aaaaa-aaaja-cai", 25)'
 dfx canister id opend
 ```
 
-4. Transfer NFT to OpenD:
+4. Transfer NFT to OpenSeaBeta:
 
 ```
 dfx canister call si2b5-pyaaa-aaaaa-aaaja-cai transferOwnership '(principal "ryjl3-tyaaa-aaaaa-aaaba-cai", true)'
